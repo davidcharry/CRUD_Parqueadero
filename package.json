@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/davidcharry/CRUD_Parqueadero/issues"
   },
-  "homepage": "https://github.com/davidcharry/CRUD_Parqueadero#readme"
+  "homepage": "https://github.com/davidcharry/CRUD_Parqueadero#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
